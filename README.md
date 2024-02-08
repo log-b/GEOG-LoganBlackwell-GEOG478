@@ -1,7 +1,6 @@
 # GEOG-LoganBlackwell-GEOG478
 Logan Blackwell
 
-Table:-
 |Homeworks  |Labs   |Project    |
 | :---------: |:---------:| :----:|
 | [week01](homework/week01) | [week01](lab/week01) | |
